@@ -15,3 +15,7 @@ require.config({
     },
     deps: ['jquery', 'underscore']
 });
+
+require(['views/app'], function(AppView) {  
+    new AppView;
+});

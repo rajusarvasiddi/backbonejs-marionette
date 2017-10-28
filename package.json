@@ -1,15 +1,21 @@
 {
-  "name": "backbone marionette app",
-  "version": "0.0.1",
-  "description": "Skeleton for a Backbone, Marionette application using Require.js, Bower, Grunt and LESS",
+  "name": "backbone-marionette",
+  "version": "1.0.0",
+  "description": "aaaa",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mezod/skeleton"
+    "url": "git+https://github.com/rajusarvasiddi/backbonejs-marionette.git"
   },
-  "devDependencies": {
-    "grunt": "~0.4.5",
-    "grunt-contrib-less": "latest",
-    "grunt-contrib-requirejs": "^0.4.4",
-    "grunt-contrib-watch": "^0.6.1"
-  }
+  "author": "raju sarvasiddi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajusarvasiddi/backbonejs-marionette/issues"
+  },
+  "homepage": "https://github.com/rajusarvasiddi/backbonejs-marionette#readme"
 }
