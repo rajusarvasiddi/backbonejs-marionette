@@ -1,12 +1,13 @@
 {
-  "name": "skeleton init",
+  "name": "backbone-marionette-app",
+  "description": "backbone marionette require underscore jquery bootstrap",
   "version": "1.0.0",
   "dependencies": {
     "jquery": "latest",
     "backbone": "latest",
     "underscore": "latest",
-    "requirejs": "~2.1.15",
-    "marionette": "~2.2.1",
-    "bootstrap": "~3.2.0"
+    "requirejs": "latest",
+    "marionette": "latest",
+    "bootstrap": "latest"
   }
 }

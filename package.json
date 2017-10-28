@@ -1,5 +1,5 @@
 {
-  "name": "skeleton",
+  "name": "backbone marionette app",
   "version": "0.0.1",
   "description": "Skeleton for a Backbone, Marionette application using Require.js, Bower, Grunt and LESS",
   "repository": {
